@@ -1,5 +1,5 @@
 ### Привет 👋, меня зовут Сергей.
-Я работаю QA Automation Engineer. 💻 [Пример кода](https://github.com/sprokaev/Web-UI_API) 📎 [Резюме](https://drive.google.com/file/d/1iYFuxLNCQSy4oEzmSJahuT_SPL7M5UJx/view?usp=sharing)
+Я работаю QA Automation Engineer. 💻 [Пример кода](https://github.com/sprokaev/Web-UI_API)
 
 Skills: Java, Selenide, JUnit, Rest-Assured, Gradle, Jenkins, Selenoid, Allure TestOps, AllureReport, Jira, Postman, Fiddler
 
